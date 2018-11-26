@@ -1,0 +1,5 @@
+[
+{
+ <project path="packages/apps/NitrogenOTA" name="nitrogen-project/packages_apps_NitrogenOTA" remote="github" revision="lp5.0" />
+}
+]
