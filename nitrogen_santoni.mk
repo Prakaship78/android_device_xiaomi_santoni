@@ -17,6 +17,7 @@
 $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 
 # Inherit some common LineageOS stuff.
+TARGET_BOOT_ANIMATION_RES := 720
 $(call inherit-product, vendor/nitrogen/products/common.mk)
 
 PRODUCT_DEVICE := santoni
